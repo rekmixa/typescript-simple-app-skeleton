@@ -1,4 +1,4 @@
-import { delay } from "./helpers"
+import { delay } from './helpers'
 
 await delay(1000)
 
